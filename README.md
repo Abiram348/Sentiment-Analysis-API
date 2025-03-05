@@ -1,7 +1,5 @@
-SENTIMENT ANALYSIS API
-
 ---
-title: Sentiment Analysis
+title: Sentiment Analysis API
 emoji: 📈
 colorFrom: green
 colorTo: pink
